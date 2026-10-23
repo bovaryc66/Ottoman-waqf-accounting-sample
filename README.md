@@ -1,2 +1,3 @@
 # Ottoman-waqf-accounting-sample
 Examples of Ottoman waqf accounting data, reconciliation of accounting entries, and a data dictionary explaining accounting categories and their relationships.
+This appendix illustrates the structure of Ottoman waqf accounting records and the procedures used to reconstruct and reconcile their financial information. It includes selected accounting data, a reconciliation table, and a data dictionary identifying the principal accounting categories, their Ottoman terminology, English equivalents, and accounting relationships. The appendix accompanies the methodological discussion of how information from Ottoman waqf accounting registers is transformed into structured quantitative data.
